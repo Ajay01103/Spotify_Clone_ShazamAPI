@@ -2,3 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/125455606/226875846-e7cf58cb-7e63-43af-ac86-ce850d40c5fa.png)
 
+Some NPM SCRIPTS =>
+1] npm install
+2] npm run dev
+3] npm run build
